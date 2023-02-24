@@ -1,0 +1,213 @@
+body{
+	background-image : linear-gradient(180deg,snow,#f9e79f) ;
+	
+}
+
+.sarata{
+ text-align :center ;
+ display :flex ;
+  background-color: orange ;
+}
+.links{
+	margin-top : 12px ;
+	margin-right : 80px ;
+	font-size : 25px ;
+	text-decoration : none ;
+	color :snow ;
+	
+
+}
+.links:hover{
+  color: #000000;
+  font-weight: bold;
+}
+.flex{
+	display : flex;
+}
+.flex2{
+	display : flex;
+	
+}
+.form1{
+	color : #312101 ;
+	background-color: #fef2c3 ;
+	font-size :25px ;
+	width :600px ;
+	margin : 10px ;
+	padding : 8px ;
+	border-radius:5px ;
+	text-shadow :3px 3px 3px #999 ;
+	box-shadow : 1px 2px 6px 2px #999 ;
+	
+}
+.form2{
+	color : #312101 ;
+	background-color: #fef2c3 ;
+	font-size :20px ;
+	width :550px ;
+	margin :15px ;
+	padding-right : 40px ;
+	padding-top : 20px ;
+	border-radius:5px ;
+	text-shadow :3px 3px 3px #999 ;
+	box-shadow : 1px 2px 6px 2px #999 ;
+	
+	
+	
+}
+input{
+	margin : 10px ;
+	
+}
+select{
+	font-size :18px ;
+	border : none ;
+	margin :10px ;
+	width : 200px ;
+	
+}
+.n1{
+	height : 20px ;
+	width : 300px ;
+	border : none ;
+	border-bottom : 2px solid red ;
+	
+}
+input::placeholder{
+	font-size :18px ;
+	
+}
+input[type="date"]{
+	width :200px ;
+	
+}
+
+footer{
+  background-color: #ff9600;
+  text-align: center;
+  color: snow;
+  
+}
+
+.ftext{
+	color : snow ;
+	text-decoration : none ;
+	margin-left : 50px ;
+	font-weight : bold ;
+	font-size : 24px ;
+	padding : 8px ; 
+}
+.ftext:hover{
+	color : black ;
+}
+
+.hal{
+text-decoration: none;
+font-weight: bold;
+  margin: 3px;
+  font-size: 40px;
+  
+  color: snow;
+}
+.logo{
+width: 80px;
+height: 60px;
+}
+.nardn{
+  font-size :20px;
+  margin-top : 30px ;
+  border-radius: 0.25rem;
+  border : none ;
+  cursor: pointer;
+  padding: 0.75rem 1.25rem;
+  background-color:  #ff9600;
+  color: white;
+  box-shadow : 3px 3px 3px #999 ;
+}
+.nardn:hover{
+  color: snow;
+  background-color: #c0392b;
+}
+.rsm1{
+	width :600px ;
+	height :600px ;
+}
+.rsm2{
+	width :500px ;
+	height :400px ;
+	margin-left : 100px ;
+	margin-top : 50px ;
+	margin-bottom :200px ;
+	
+}
+.open{
+	border-radius: 0.25rem;
+  border : none ;
+  cursor: pointer;
+  padding: 0.75rem;
+  width : 90px ;
+  background-color:  #ff9600;
+  color: white;
+	
+}
+.link3{
+	text-decoration : none ;
+	
+}
+.txt1{
+	font-size : 30px ;
+	margin-right: 160px ;
+	
+	text-shadow :3px 3px 3px #999 ;
+	
+}
+.txt2{
+	font-size : 25px ;
+	margin-right : 15px ;
+	text-shadow :3px 3px 3px #999 ;
+	
+}
+.txt4{
+	
+	font-size : 25px ;
+	margin-top : 90px ;
+	padding-right : 40px ;
+	padding-left : 450px ;
+	text-shadow :3px 3px 3px #999 ;
+	
+}
+.table1{
+	text-align : center;
+	margin-right : 250px ;
+	font-size : 20px ;
+	width : 800px ;
+	height : 400px ;
+	border: 2px ;
+	border-spacing:1;
+	background : ;
+	border-radius : px ;
+	border-collapse : collapse ;
+	margin-bottom :200px ;
+	margin-top :50px ;
+	box-shadow: 4px 4px 4px #999;
+}
+.theader{
+	border-collapse : collapse ;
+	color : snow ;
+	background: #2874a6 ;
+	
+}
+.trang{
+	
+	background: #f7dc6f;
+}
+.trang:hover{
+	background :#2874a6 ;
+	color : snow ;
+	
+}
+.trang2:hover{
+	
+	background :#2874a6 ;
+	color : snow ;
+}
